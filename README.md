@@ -3,7 +3,7 @@
 </div>
 
 ### About Me
-A University of Manchester student studying Computer Science. Interested in Artificial Intelligence.
+A University of Manchester undergraduate studying Computer Science. Interested in Artificial Intelligence.
 Learning to code...
 
 #### Have experience with...
