@@ -3,7 +3,9 @@
 </div>
 
 ### About Me
-A University of Manchester undergraduate studying Computer Science. Interested in Artificial Intelligence.
+I am passionate about Artificial Intelligence and am particularly interested in Deep Learning and Natural Language Processing. Familiar with languages such as Python, Java and C++ and have experience with deep learning frameworks including PyTorch and Tensorflow. I also hold a special interest in game development.
+
+I consider myself an active and fast learner, equipped with good problem-solving and communication skills. I also keep up to date with the latest technologies and am eager to work with State-of-The-Art models.
 Learning to code...
 
 #### Have experience with...
@@ -23,3 +25,7 @@ Learning to code...
     <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
     <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
 </p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=InstinctM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
+</div>
